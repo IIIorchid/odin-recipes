@@ -1,1 +1,3 @@
-# odin-recipes
+Second GitHub project.
+
+The Odin Project: Recipes
